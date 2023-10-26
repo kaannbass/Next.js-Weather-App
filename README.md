@@ -44,16 +44,18 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 # Home Page
-![image](https://github.com/kaannbass/weatherApp-Next.js/assets/73648199/128f4829-9908-4516-a0c5-4322e701b827)
+![image](https://github.com/kaannbass/Next.js-Weather-App/assets/73648199/7fbb17b4-a8b0-4437-a4ed-3913a509b013)
 
 ## Search is empty
-![image](https://github.com/kaannbass/weatherApp-Next.js/assets/73648199/0091b6a8-33f5-41ee-a6f2-a60aa909de76)
+![image](https://github.com/kaannbass/Next.js-Weather-App/assets/73648199/5077f248-e979-4704-934f-9b158e3dbc4d)
 
 ## Search 
-![image](https://github.com/kaannbass/weatherApp-Next.js/assets/73648199/74c825a8-f6b5-4a76-bc41-2a1e49cc7c39)
+![image](https://github.com/kaannbass/Next.js-Weather-App/assets/73648199/0404da5a-a346-4878-b0cd-8083e830f247)
+
 
 # Detail Page
-![image](https://github.com/kaannbass/weatherApp-Next.js/assets/73648199/0b1ac64d-89e4-42be-b956-9f2a8f202ce5)
+![image](https://github.com/kaannbass/Next.js-Weather-App/assets/73648199/a6be3e9b-21fb-4f87-8346-c3044a89b2d4)
+
 
 
 
